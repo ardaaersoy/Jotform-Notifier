@@ -4,4 +4,4 @@ It is an extension named Jotform Notifier for chrome. Employees in JotForm can s
 
 <hr>
 
-<img src="home.png" width="200" height="150">
+<img src="home.png" width="200" height="100">
